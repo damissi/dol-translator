@@ -181,9 +181,9 @@ class TweeL10nValidator:
 
 if __name__ == "__main__":
     # --- 설정: 여기에 검증할 파일 경로를 직접 입력하세요. ---
-    ORIGINAL_FILE_PATH = r"C:\Users\김다니엘\Downloads\Project\source_twee\hunts.twee"
-    TRANSLATED_FILE_PATH = r"C:\Users\김다니엘\Downloads\Project\translated_twee\hunts.twee"
-    OUTPUT_REPORT_PATH = r"C:\Users\김다니엘\Downloads\Project\validation_report.md"
+    ORIGINAL_FILE_PATH =
+    TRANSLATED_FILE_PATH =
+    OUTPUT_REPORT_PATH =
     # ----------------------------------------------------
 
     original_p = Path(ORIGINAL_FILE_PATH)
